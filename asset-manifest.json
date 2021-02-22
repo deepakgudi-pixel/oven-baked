@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/oven-baked/static/js/main.c75bedb8.chunk.js",
+    "main.js.map": "/oven-baked/static/js/main.c75bedb8.chunk.js.map",
+    "runtime-main.js": "/oven-baked/static/js/runtime-main.7de23ba2.js",
+    "runtime-main.js.map": "/oven-baked/static/js/runtime-main.7de23ba2.js.map",
+    "static/js/2.2a48f41a.chunk.js": "/oven-baked/static/js/2.2a48f41a.chunk.js",
+    "static/js/2.2a48f41a.chunk.js.map": "/oven-baked/static/js/2.2a48f41a.chunk.js.map",
+    "static/js/3.192ed04a.chunk.js": "/oven-baked/static/js/3.192ed04a.chunk.js",
+    "static/js/3.192ed04a.chunk.js.map": "/oven-baked/static/js/3.192ed04a.chunk.js.map",
+    "index.html": "/oven-baked/index.html",
+    "static/js/2.2a48f41a.chunk.js.LICENSE.txt": "/oven-baked/static/js/2.2a48f41a.chunk.js.LICENSE.txt",
+    "static/media/featured2.a8a58113.jpg": "/oven-baked/static/media/featured2.a8a58113.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/oven-baked/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/oven-baked/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/oven-baked/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/oven-baked/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-1.6a6ef41a.jpg": "/oven-baked/static/media/sweet-1.6a6ef41a.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/oven-baked/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/oven-baked/static/media/sweet-3.badeecbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7de23ba2.js",
+    "static/js/2.2a48f41a.chunk.js",
+    "static/js/main.c75bedb8.chunk.js"
+  ]
+}
